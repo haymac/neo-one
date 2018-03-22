@@ -1357,12 +1357,12 @@ babel-jest@20.0.3, babel-jest@^20.0.3:
     babel-plugin-istanbul "^4.0.0"
     babel-preset-jest "^20.0.3"
 
-babel-jest@23.0.0-alpha.0:
-  version "23.0.0-alpha.0"
-  resolved "https://registry.npmjs.org/babel-jest/-/babel-jest-23.0.0-alpha.0.tgz#a19c6bff78d7012a2e01e698ae56a8bd3e8cb2f6"
+babel-jest@23.0.0-alpha.1:
+  version "23.0.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/babel-jest/-/babel-jest-23.0.0-alpha.1.tgz#ecd83afa5ebd759e17548e55cb58d143ca62c63a"
   dependencies:
     babel-plugin-istanbul "^4.1.5"
-    babel-preset-jest "^23.0.0-alpha.0"
+    babel-preset-jest "^23.0.0-alpha.1"
 
 babel-jest@^22.4.3:
   version "22.4.3"
@@ -1777,9 +1777,9 @@ babel-preset-jest@^22.4.3:
     babel-plugin-jest-hoist "^22.4.3"
     babel-plugin-syntax-object-rest-spread "^6.13.0"
 
-babel-preset-jest@^23.0.0-alpha.0:
+babel-preset-jest@^23.0.0-alpha.1:
   version "23.0.0-alpha.1"
-  resolved "https://registry.npmjs.org/babel-preset-jest/-/babel-preset-jest-23.0.0-alpha.1.tgz#57ecc8d3ef3186621355eefc72cff53e78920ed5"
+  resolved "https://registry.yarnpkg.com/babel-preset-jest/-/babel-preset-jest-23.0.0-alpha.1.tgz#57ecc8d3ef3186621355eefc72cff53e78920ed5"
   dependencies:
     babel-plugin-jest-hoist "^23.0.0-alpha.1"
     babel-plugin-syntax-object-rest-spread "^6.13.0"
@@ -6276,12 +6276,12 @@ jest-environment-jsdom@^22.4.3:
     jest-util "^22.4.3"
     jsdom "^11.5.1"
 
-jest-environment-node@23.0.0-alpha.0:
-  version "23.0.0-alpha.0"
-  resolved "https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-23.0.0-alpha.0.tgz#befbd28321acdaca1e339c17f9885474e3585931"
+jest-environment-node@23.0.0-alpha.1:
+  version "23.0.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/jest-environment-node/-/jest-environment-node-23.0.0-alpha.1.tgz#49ed173cc57d77611827bb4dc357e50bcb7aba79"
   dependencies:
-    jest-mock "^23.0.0-alpha.0"
-    jest-util "^23.0.0-alpha.0"
+    jest-mock "^23.0.0-alpha.1"
+    jest-util "^23.0.0-alpha.1"
 
 jest-environment-node@^20.0.3:
   version "20.0.3"
@@ -6420,9 +6420,9 @@ jest-mock@^22.4.3:
   version "22.4.3"
   resolved "https://registry.npmjs.org/jest-mock/-/jest-mock-22.4.3.tgz#f63ba2f07a1511772cdc7979733397df770aabc7"
 
-jest-mock@^23.0.0-alpha.0:
+jest-mock@^23.0.0-alpha.1:
   version "23.0.0-alpha.1"
-  resolved "https://registry.npmjs.org/jest-mock/-/jest-mock-23.0.0-alpha.1.tgz#11720d649dd5878db129d8f4f73fa4ddfc3da382"
+  resolved "https://registry.yarnpkg.com/jest-mock/-/jest-mock-23.0.0-alpha.1.tgz#11720d649dd5878db129d8f4f73fa4ddfc3da382"
 
 jest-regex-util@^20.0.3:
   version "20.0.3"
@@ -6570,9 +6570,9 @@ jest-util@^22.4.3:
     mkdirp "^0.5.1"
     source-map "^0.6.0"
 
-jest-util@^23.0.0-alpha.0:
+jest-util@^23.0.0-alpha.1:
   version "23.0.0-alpha.1"
-  resolved "https://registry.npmjs.org/jest-util/-/jest-util-23.0.0-alpha.1.tgz#0b87a1110936c516de0cfc66bc69ec4685fecadd"
+  resolved "https://registry.yarnpkg.com/jest-util/-/jest-util-23.0.0-alpha.1.tgz#0b87a1110936c516de0cfc66bc69ec4685fecadd"
   dependencies:
     callsites "^2.0.0"
     chalk "^2.0.1"
